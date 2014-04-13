@@ -12,3 +12,5 @@ use with
 ```
 wget -O- https://raw.githubusercontent.com/CrowdHailer/Almighty/master/first.sh | sh
 ```
+
+issue with auto comple of inputs when downloading
