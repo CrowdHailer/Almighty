@@ -1,4 +1,4 @@
-packages='git xclip tree nautilus guake'
+packages='git xclip tree nautilus guake inkscape chromium-browser imagemagick'
 
 echo 'This is the Almighty script for Machine rest.'
 echo "The packages to be installed are ${packages}"
