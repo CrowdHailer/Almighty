@@ -1,0 +1,8 @@
+xclip
+
+For Nokigiri gem
+- libxml2
+- libxslt
+
+For pg gem
+- libpq-dev
