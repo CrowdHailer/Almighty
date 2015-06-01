@@ -24,6 +24,9 @@ settings -> Mouse and touchpag
   sudo ufw status verbose
   ```
 
+#### Last pass
+install for all then add plugins
+
 #### Google Chrome
 
 Step 1. Just use chromium
@@ -36,6 +39,7 @@ plugins
 - Web developer checklist
 - Vimium
 
+## Old
 
 use with 
 ```
