@@ -2,7 +2,6 @@ xclip tilda skype hardinfo tree nautilus curl inkscape imagemagick
 
 For Nokigiri gem
 - libxml2
-- libxslt
 
 For pg gem
 - libpq-dev
