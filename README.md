@@ -1,11 +1,14 @@
 Almighty
 ========
 
-Environment recreation and dotfile plus
+My linux mint setup notes
 
-COMING SOON
+## Install packages
+core pacakges available in min repositories. execute
 
-So doesn't really work so far. Just exists as notes on how I set up my machine
+```sh
+sudo apt-get install <package-name>
+```
 
 ## notes
 
