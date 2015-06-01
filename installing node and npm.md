@@ -1,4 +1,4 @@
-use ubuntu packages for latest
+Node and the Node Package Manager (npm) are available from Ubuntu package repositories
 
 ```
 sudo apt-get install nodejs nodejs-dev npm
