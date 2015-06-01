@@ -1,8 +1,4 @@
-xclip
-tilda
-skype
-hardinfo
-tree
+xclip tilda skype hardinfo tree nautilus curl inkscape imagemagick 
 
 For Nokigiri gem
 - libxml2
