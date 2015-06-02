@@ -21,4 +21,11 @@
   ```
   $ echo "source $HOME/.rvm/scripts/rvm" >> ~/.bash_profile
   ```
-  **Note this still requires a login shell**
+
+7. load bundler
+  ```
+  $ gem install bundler
+  ```
+
+  
+**Note this still requires a login shell**
