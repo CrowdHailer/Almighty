@@ -42,3 +42,20 @@
   ```
 
 5. Paste key to github/bitbucket account
+
+### Configuring
+
+Configuration resides in .gitconfig files. Global configuration is in `~/.gitconfig`
+
+configuration I use
+
+```
+git config --global color.ui auto
+git config --global alias.visual log --online --decorate --graph --all
+```
+
+to see configuration
+
+```
+git config --list
+```
