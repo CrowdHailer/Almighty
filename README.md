@@ -35,11 +35,13 @@ settings -> Mouse and touchpag
 - curl
 - inkscape
 - imagemagick
+- git *# Further information*
+- postgresql *# Further information*
 - libxml2 *# For Nokigiri gem*
 - libpq-dev *# For pg gem*
 
 ```sh
-sudo apt-get install chromium-browser xclip tilda skype hardinfo tree nautilus curl inkscape imagemagick libxml2 libpq-dev
+sudo apt-get install chromium-browser xclip tilda skype hardinfo tree nautilus curl inkscape imagemagick libxml2 libpq-dev postgresql git
 ```
   
 ## Google Chrome
