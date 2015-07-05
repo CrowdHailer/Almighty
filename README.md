@@ -70,4 +70,14 @@ Instructions in [README](https://github.com/atom/atom/blob/master/README.md#buil
 2. Run `sudo dpkg --install atom-amd64.deb` on the downloaded package.
 3. Launch Atom using the installed `atom` command.
 
+List all installed packages with
+```sh
+apm list --installed --bare
+```
+
+Currently using
+- emmet
+- editorconfig
+- jshint
+- language-elixir
 
