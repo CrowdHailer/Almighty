@@ -50,7 +50,9 @@ From other sources
 
 - atom
   
-## Google Chrome
+## Browser
+
+#### Chrome
 
 Just use chromium
 
@@ -59,6 +61,13 @@ plugins
 - Web developer checklist
 - Vimium
 - Awesome Screenshot Minus
+- LastPass
+
+#### Firefox
+
+plugins
+- vimfx
+- LastPass
 
 #### LastPass
 Install LastPass Universal Linux Installer from [home page](https://lastpass.com/misc_download2.php)
