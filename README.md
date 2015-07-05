@@ -25,6 +25,8 @@ settings -> Mouse and touchpag
   
 ## Added Packages
 
+From PPA's
+
 - chromium-browser
 - xclip
 - tilda
@@ -43,6 +45,10 @@ settings -> Mouse and touchpag
 ```sh
 sudo apt-get install chromium-browser xclip tilda skype hardinfo tree nautilus curl inkscape imagemagick libxml2 libpq-dev postgresql git
 ```
+
+From other sources
+
+- atom
   
 ## Google Chrome
 
@@ -55,3 +61,13 @@ plugins
 
 #### Last pass
 install for all then add plugins
+
+## Atom
+
+Instructions in [README](https://github.com/atom/atom/blob/master/README.md#building)
+
+1. Download `atom-amd64.deb` from the [Atom releases page](https://github.com/atom/atom/releases/latest).
+2. Run `sudo dpkg --install atom-amd64.deb` on the downloaded package.
+3. Launch Atom using the installed `atom` command.
+
+
