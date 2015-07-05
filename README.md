@@ -1,16 +1,11 @@
 Almighty
 ========
 
-My linux mint setup notes
+#### My linux mint setup notes
 
-## Install packages
-core pacakges available in min repositories. execute
+## Desktop
 
-```sh
-sudo apt-get install <package-name>
-```
-
-## notes
+Disable hot corners
 
 #### Two finger scrolling
 
@@ -18,6 +13,7 @@ settings -> Mouse and touchpag
 - enable two finger scrolling
 - natural scrolling
 - horizontal scrolling
+
 
 #### Uncomplicated firewall
 - Enable ufw  
