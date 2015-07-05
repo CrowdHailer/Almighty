@@ -22,29 +22,34 @@ settings -> Mouse and touchpag
   
   sudo ufw status verbose
   ```
+  
+## Added Packages
 
-#### Last pass
-install for all then add plugins
+- chromium-browser
+- xclip
+- tilda
+- skype
+- hardinfo
+- tree
+- nautilus
+- curl
+- inkscape
+- imagemagick
+- libxml2 *# For Nokigiri gem*
+- libpq-dev *# For pg gem*
 
-#### Google Chrome
-
-Step 1. Just use chromium
 ```sh
-sudo apt-get install chromium-browser
+sudo apt-get install chromium-browser xclip tilda skype hardinfo tree nautilus curl inkscape imagemagick libxml2 libpq-dev
 ```
+  
+## Google Chrome
+
+Just use chromium
 
 plugins
 - Web Developer
 - Web developer checklist
 - Vimium
 
-## Old
-
-use with 
-```
-wget -O- https://raw.githubusercontent.com/CrowdHailer/Almighty/master/first.sh | sh
-```
-
-issue with auto comple of inputs when downloading
-
-http://linuxg.net/how-to-install-google-chrome-39-stable-on-the-most-popular-linux-systems-via-the-official-google-repository/
+#### Last pass
+install for all then add plugins
