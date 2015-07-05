@@ -60,8 +60,14 @@ plugins
 - Vimium
 - Awesome Screenshot Minus
 
-#### Last pass
-install for all then add plugins
+#### LastPass
+Install LastPass Universal Linux Installer from [home page](https://lastpass.com/misc_download2.php)
+Extract from zip file
+run installer
+
+```sh
+./install_lastpass.sh 
+```
 
 ## Atom
 
