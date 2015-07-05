@@ -58,6 +58,7 @@ plugins
 - Web Developer
 - Web developer checklist
 - Vimium
+- Awesome Screenshot Minus
 
 #### Last pass
 install for all then add plugins
