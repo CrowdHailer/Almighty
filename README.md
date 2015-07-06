@@ -97,3 +97,16 @@ Currently using
 - jshint
 - language-elixir
 
+## Git prompt
+
+add to ~/.bashrc
+```
+export GIT_PS1_SHOWDIRTYSTATE='true'
+export GIT_PS1_SHOWUNTRACKEDFILES='true'
+export GIT_PS1_SHOWUPSTREAM="verbose"
+export GIT_PS1_SHOWCOLORHINTS='true'
+source ~/.git-prompt.sh
+PROMPT_COMMAND='__git_ps1 "\n\w" "\\\$ "'
+```
+
+.git-prompt.sh is in this repo
