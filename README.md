@@ -62,6 +62,7 @@ plugins
 - Vimium
 - Awesome Screenshot Minus
 - LastPass
+- open seo stats
 
 #### Firefox
 
