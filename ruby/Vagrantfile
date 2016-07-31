@@ -2,7 +2,13 @@ Vagrant.configure(2) do |config|
   config.vm.box = "ubuntu/trusty64"
   config.vm.network "forwarded_port", guest: 4567, host: 3000
   config.vm.synced_folder ".", "/vagrant"
-  #
+
+  config.vm.hostname = "myhost.ruby.vm"
+  config.landrush.enabled = true
+  config.landrush.tld = 'vm'
+  config.landrush.host "foo.ruby.vm" 
+  config.landrush.host "bar.ruby.vm"
+
   # config.vm.provider "virtualbox" do |vb|
   #   # Display the VirtualBox GUI when booting the machine
   #   vb.gui = true
