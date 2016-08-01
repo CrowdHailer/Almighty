@@ -10,4 +10,4 @@ rvm requirements
 gem install bundler
 cd /vagrant
 bundle
-ruby hi.rb -o 0.0.0.0
+# ruby hi.rb -o 0.0.0.0

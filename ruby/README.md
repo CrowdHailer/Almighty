@@ -13,4 +13,5 @@ Trying to develop with ruby in a reproducable development environment.
 Using the [landrush plugin](https://github.com/vagrant-landrush/landrush)
 
 - The `.dev` domain results in an error `ERR_ICANN_NAME_COLLISION`. This is apparantly due to Google going through the process of using it as a tld
-- Unless a landrush tld is set it redirects for guest machines only. 
+- Unless a landrush tld is set it redirects for guest machines only.
+- Need to follow instructions in landrush README to restart the dnsmasq service. 
