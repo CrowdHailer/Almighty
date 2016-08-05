@@ -31,3 +31,8 @@ apt-get install virtualbox-5.1
 
 wget https://releases.hashicorp.com/vagrant/1.8.5/vagrant_1.8.5_x86_64.deb
 dpkg -i vagrant_1.8.5_x86_64.deb
+
+# Lastpass
+wget https://lastpass.com/lplinux.tar.bz2
+tar xjvf lplinux.tar.bz2
+cd lplinux && ./install_lastpass.sh
